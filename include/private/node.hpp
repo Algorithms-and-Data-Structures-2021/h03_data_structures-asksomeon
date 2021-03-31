@@ -8,6 +8,7 @@ namespace itis {
  * Структура односвязный "узел".
  * Обертка элементов односвязных структур данных (напр. Linked List, Linked Stack и Linked Queue).
  * P.S. ключевое слово final запрещает наследование структуры.
+ * Зачем расписывать private?
  */
 struct SinglyNode final {
  public:
